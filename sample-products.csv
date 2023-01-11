@@ -1,0 +1,135 @@
+name,sku,price,category
+Avocado,000176,1000,add-ons
+Cheese,000177,1000,add-ons
+Veggies,000178,1000,add-ons
+Jalapeno,000001,920,add-ons
+Multiseed,000002,920,add-ons
+Onion,000003,920,add-ons
+Plain,000004,920,add-ons
+Poppy Seed,000005,920,add-ons
+Rye Pumpernickle,000006,920,add-ons
+Salt,000007,920,add-ons
+Sesame,000008,920,add-ons
+Whole Wheat,000009,920,add-ons
+Sundried Tomato,000010,920,add-ons
+Garlic,000011,920,add-ons
+Egg,000012,920,add-ons
+Chocolate Chip,000013,920,add-ons
+Combo,000014,920,add-ons
+Cinnamon Raisin,000015,920,add-ons
+Blueberry,000016,920,add-ons
+Whole Wheat Sesame,000018,920,add-ons
+1/2 Dozen Bagels,000020,6750,add-ons
+Baker's Dozen Bagels,000026,11950,add-ons
+Bagel/gourmet cream cheese,000028,3250,add-ons
+Bagel/lox cr ch,000029,3750,add-ons
+Bagel/cr ch,000030,2650,add-ons
+Devil Eggs,000165,3250,add-ons
+Roasted Red Pepper Frittata Slice with salsa [D],000166,5950,add-ons
+Breakfast Burrito with egg & potatoes,000167,5950,breakfast
+16 oz. Parfait Yogurt with fresh made granola,000168,5950,breakfast
+Plain Challah 1.25 Lb.,000155,5250,challah
+Sesame Challah 1.25 Lb.,000156,5250,challah
+Poppy Seed Challah 1.25 Lb.,000157,5250,challah
+Whole Wheat Challah 1.25 Lb.,000158,5250,challah
+Bag of 6 pcs. of Plain Challah Rolls,000159,4000,challah
+1/8 Cheese Cake,000137,19950,cheesecake
+1/4 Sheet Cheese Cake,000138,58950,cheesecake
+1/2 Sheet Cheese Cake,000139,98950,cheesecake
+Cappuccino,001185,2500,coffee
+Coffee,001186,1500,coffee
+Hot Chocolate,001187,2450,coffee
+Latte,001188,2500,coffee
+Mocha,001189,3000,coffee
+Espresso,000196,600,coffee
+Espresso,000200,1500,coffee
+Chocolate Chip Cookies [Dairy],000086,1450,cookies
+Oatmeal Raisin [Dairy],000087,1450,cookies
+M & M [Dairy],000088,1250,cookies
+Sugar Cookie [Dairy],000089,1450,cookies
+Filled Chocolate Cokie [Dairy],000090,1450,cookies
+Peanut Butter [Dairy],000091,1450,cookies
+Filled Macaroon Cookie [Dairy],000092,1450,cookies
+Filled Peanut Butter Cookie [Dairy],000093,1450,cookies
+XL Chocolate Chip Cookie [Dairy],000094,2250,xl-cookies
+XL Oatmeal Raisin Cookie [Dairy],000095,2250,xl-cookies
+XL Peanut Butter Cookie [Dairy],000096,2250,xl-cookies
+XL Sugar Cookie [Dairy],000097,2250,xl-cookies
+M & M Lollipop Cookie [Dairy],000098,2250,xl-cookies
+Sprinkle Cookie [Parve],000099,1250,cookies
+Black & White Cookie [Parve],000100,2250,cookies
+Raspberry Hamentashen $11.95/Lb Parve,000101,11950,hamentashen
+Prune Hamentashen $11.95/Lb. Parve,000102,11950,hamentashen
+Poppy Hamentashen $11.95/Lb Parve,000103,11950,hamentashen
+Apricot Hamentashen $11.95/Lb Parve,000104,11950,hamentashen
+Chocolate Hamentashen $11.95/Lb Dairy,000105,11950,hamentashen
+Martinelli's juice,000179,1500,drinks
+Martinelli's juice - sparkling,000180,1500,drinks
+Odwalla,000181,4000,drinks
+Dr. Brown,000182,1500,drinks
+Tea,000183,1350,drinks
+Snapple,000184,1500,drinks
+Soda,000197,1500,drinks
+Orangina,000198,1500,drinks
+Bottled water,000199,1500,drinks
+TULLY'S COFFEE TO GO,000201,17000,coffee
+Vegetarian Frittata [PARVE],000174,24950,frittata-trays
+Spinach,000146,3950,knishes
+Veggie,000147,3950,knishes
+Broccoli,000148,3950,knishes
+Kasha,000149,3950,knishes
+_ Lb. Gourmet Wild Lox [8oz.],000083,15000,lox
+Gourmet Wild Lox [4oz.],000084,7500,lox
+Double Chocolate,000150,3250,muffins
+Banana Nut,000151,3250,muffins
+Glorious Morning - Carrot,000152,3250,muffins
+Blueberry,000153,3250,muffins
+Lemon Poppy Seed,000154,3250,muffins
+4.5 oz. Butter Croissants,000111,2950,croissants
+4.25 oz. Chocolate Croissants,000112,2950,croissants
+4.25 oz. Cream Cheese Croissants,000113,2950,croissants
+4.25 oz. Strawberry Cream Cheese Croissants,000114,2950,croissants
+4.25 oz. Blueberry Cream Cheese Croissants,000115,2950,croissants
+4.55 oz. Apple Turnovers,000116,2950,turnovers
+4.55 oz. Cherry Turnovers,000117,2950,turnovers
+6.5 oz. Cinnamon Rolls,000118,3250,turnovers
+Smoked Baked Salmon Salad,000050,6950,salads
+Smoked White Fish Salad,000051,6950,salads
+Herring in Cream Sauce,000052,6500,salads
+Herring in Wine Sauce,000053,6500,salads
+Izzy's Tuna Salad,000054,5250,salads
+Egg Salad,000055,4250,salads
+"Hummus or Veggie ""Chopped Liver""",000063,4500,salads
+Lentil with carrots 12oz.,000079,4550,soups
+Minestrone 12oz.,000080,4550,soups
+Barley 12oz.,000081,4550,soups
+Flatgels,000021,1950,specialty-bagels
+Challa Bagel,000024,4950,specialty-bagels
+Strawberry Cream Cheese,000031,3950,spreads
+Blueberry Cream Cheese,000032,3950,spreads
+Cinnamon Raisin Cream Cheese,000033,3950,spreads
+Belgian Orange Chocolate Cream Cheese,000034,3950,spreads
+Walnut Raisin Cream Cheese,000035,3950,spreads
+Classic Cream Cheese,000036,3500,spreads
+Low - Fat Cream Cheese,000037,3500,spreads
+Cucumber Scallion Cream Cheese,000038,3950,spreads
+Chive Cream Cheese,000039,3950,spreads
+Dijon Garlic Cream Cheese,000040,3950,spreads
+Sundried Tomato Cream Cheese,000041,3950,spreads
+Lox Spread,000042,4500,spreads
+Black Olive Cream Cheese,000043,3950,spreads
+Green Olive & Garlic Cream Cheese,000044,3950,spreads
+Green Olive & Pimento Cream Cheese,000045,3950,spreads
+Roasted Red Pepper Cream Cheese,000046,3950,spreads
+Mexican Salsa Cream Cheese,000047,3950,spreads
+Veggie Cream Cheese,000048,3950,spreads
+Jalapeno Cream Cheese,000049,3950,spreads
+"Baked Salmon with lettuce, tomato & cucumber",000072,7950,wraps
+"Egg Salad with lettuce, tomato & cucumber",000073,6950,wraps
+Grilled Eggplant with Mushrooms & Onions,000074,6950,wraps
+Grilled Veggies,000075,6950,wraps
+Hummus & Falafel with tahina sauce,000076,6950,wraps
+"Tuna Salad with lettuce, tomato & cucumber",000077,6950,wraps
+"White Fish Salad with lettuce, tomato & cucumber",000078,7950,wraps
+Egglette,000169,3500,breakfast
+Egglette - Cheese & Veggie,000170,6360,breakfast
